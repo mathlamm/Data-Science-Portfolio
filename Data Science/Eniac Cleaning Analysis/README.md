@@ -1,8 +1,11 @@
 ## Set Up
-Tasked with resolving Eniac's debate on the impact of product discounts, our analysis intended to inform strategic decisions balancing quality market positioning against aggressive discounting tactics.
+Tasked with resolving Eniac's debate on the impact of product discounts, my analysis intended to inform strategic decisions balancing quality market positioning against aggressive discounting tactics.
 
 ## Analysis & Tools
-Leveraging Python's robust data manipulation libraries such as pandas and regex, our team performed extensive data cleaning to establish data quality and consistency. We categorized products to streamline analysis, enabling a thorough investigation into the discount strategy's effects on sales, especially during seasonal peaks and special events.
+I took a deep dive into Eniac's data, armed with Python and a toolkit full of pandas and regex magic, to untangle a pretty tangled data set. The task? 
+Figuring out if discounts were really the secret weapon to boosting sales or if they were just in fact hurting profits.
 
-## Insights & Deliverables
-Through collaborative efforts, we scrutinized sales data against discount percentages and seasonal trends, presenting our findings in a compelling narrative. Utilizing seaborn and matplotlib, we crafted insightful visualizations to support our stance that while discounts may boost short-term sales volume, they do not necessarily contribute to long-term revenue growth. Our analysis culminated in a 5-minute presentation, highlighting the necessity for improved data collection practices and proposing a strategic approach to Eniac's discount policy.
+I categorized products, ran quality checks on the data, and leaned on Google's suite of collaboration-fit tools for a group analysis. My goal was to draw a clear, data-backed picture of Eniac's discount landscape—how deep the discounts went, when they hit, and their real impact on the bottom line. Wrapping up, I put together a straightforward 5-minute presentation to lay out the findings and chart a course for Eniac's discounting strategy, aiming to strike that delicate balance between attracting customers and keeping revenue healthy.
+
+
+
