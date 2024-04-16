@@ -1,4 +1,4 @@
-## Project
+## Synopsis
 Tasked with resolving Eniac's debate on the impact of product discounts, my analysis intended to inform strategic decisions balancing quality market positioning against aggressive discounting tactics.
 
 I took a deep dive into Eniac's data, armed with Python and a toolkit full of pandas and regex magic, to untangle a pretty tangled data set. The task? 
