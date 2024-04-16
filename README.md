@@ -1,7 +1,11 @@
 # Data-Science-Portfolio
 
 
-
+## Data Science
+- [Eniac Business Questions](https://github.com/mathlamm/Data-Science-Portfolio/tree/main/Data%20Science/Eniac%20Cleaning%20Analysis): In a 2 week group project for Eniac, I tackled the debate on the impact of product discounts on business growth. Through rigorous data cleaning with Python and pandas, and careful product categorization, I assessed price distributions, discount prevalence and magnitudes, and sales trends influenced by seasonality. Collaborating closely with my team, I utilized seaborn and matplotlib to create visual narratives that guided our conclusive presentation, ultimately steering Eniac's strategic discounting policies with a compelling data-driven story.
 
 ## Data Analysis
-- Analysis of potential online marketplace partership, using mySQl and Tableau. First one-week group effort of the WBS Data Science Boot Camp in March 2024.
+-  [Magist Business Exploration](https://github.com/mathlamm/Data-Science-Portfolio/tree/main/Data%20Analysis/Magist%20Analysis): Analysis of potential online marketplace partership, using mySQl and Tableau. First one-week group effort of the WBS Data Science Boot Camp in March 2024.
+
+## Data Engineering
+- [Gans Scooter Distribtion](https://github.com/mathlamm/Data-Science-Portfolio/tree/main/Data%20Engineering/Gans%20Scooter%20Demand): In a 2 week project aimed at optimizing e-scooter distribution for Gans startup, I engineered a cloud-based data pipeline that captures and processes urban mobility data. Utilizing Python for data collection and cleaning, and MySQL for storage, I automated the ingestion of real-time data into a GCP SQL instance. This infrastructure enables Gans to strategically position e-scooters based on predictive analytics, enhancing operational efficiency in diverse cityscapes.
