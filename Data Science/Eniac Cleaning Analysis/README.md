@@ -1,7 +1,7 @@
 ## Set Up
 Tasked with resolving Eniac's debate on the impact of product discounts, my analysis intended to inform strategic decisions balancing quality market positioning against aggressive discounting tactics.
 
-## Analysis & Tools
+## Analysis, Tools & Deliverables
 I took a deep dive into Eniac's data, armed with Python and a toolkit full of pandas and regex magic, to untangle a pretty tangled data set. The task? 
 Figuring out if discounts were really the secret weapon to boosting sales or if they were just in fact hurting profits.
 
