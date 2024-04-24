@@ -43,6 +43,9 @@ While *Moosic*s service in offering customoized playlist is scaling up fast, the
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-F7A600?style=for-the-badge&logo=openweathermap&logoColor=white)
+![AeroDataBox](https://img.shields.io/badge/AeroDataBox-007D8A?style=for-the-badge&logo=airplane&logoColor=white)
+
 
 #### Gans Scooter Distribtion [*go to project*](https://github.com/mathlamm/Data-Science-Portfolio/tree/main/Data%20Engineering/Gans%20Scooter%20Demand): 
 
