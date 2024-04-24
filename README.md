@@ -34,7 +34,7 @@ Analysis of potential online marketplace partership, using mySQl and Tableau. Fi
 
 
 
-#### Automated Playlist Generation for Moosic [*go to project*](PASTE LINK HERE):  
+#### Automated Playlist Generation for Moosic [*go to project*](https://github.com/mathlamm/Data-Science-Portfolio/tree/main/Machine%20Learning/Moosic%20-%20Automated%20Playlist%20Generation):  
 
 While *Moosic*s service in offering customoized playlist is scaling up fast, the company is in need for tools to automate playlist generation in support of the music expert team. I used KMeans as a unsupervised Machine Learning method to cluster +5000 songs based on Spotifies aufio features. 
 
@@ -43,6 +43,7 @@ While *Moosic*s service in offering customoized playlist is scaling up fast, the
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-F7A600?style=for-the-badge&logo=openweathermap&logoColor=white)
 ![AeroDataBox](https://img.shields.io/badge/AeroDataBox-007D8A?style=for-the-badge&logo=airplane&logoColor=white)
 
