@@ -1,6 +1,6 @@
 # Data-Science-Portfolio
 
-During a four month Data Science Bootcamp at WBS Coding School Berlin I completed several projects focusing on all facades of data management: Data Engineering, Data Science and Data Analysis. Projects were set up as real-world companies with real case scenarios. 
+During a four month Data Science Bootcamp at [WBS Coding School Berlin](https://www.wbscodingschool.com/data-science-bootcamp/) I completed several projects focusing on all facades of data management: Data Engineering, Data Science and Data Analysis. Projects were set up as real-world companies with real case scenarios. 
 
 
 ## Data Science
@@ -21,6 +21,19 @@ In a 2 week group project for Eniac, I tackled the debate on the impact of produ
 #### Testing Magists Potential for Partnership [*go to project*](https://github.com/mathlamm/Data-Science-Portfolio/tree/main/Data%20Analysis/Magist%20Analysis):  
 
 Analysis of potential online marketplace partership, using mySQl and Tableau. First one-week group effort of the WBS Data Science Boot Camp in March 2024.
+
+
+## Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Spotipy](https://img.shields.io/badge/Spotipy-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+
+
+#### Automated Playlist Generation for Moosic [*go to project*](PASTE LINK HERE):  
+
+While *Moosic*s service in offering customoized playlist is scaling up fast, the company is in need for tools to automate playlist generation in support of the music expert team. I used KMeans as a unsupervised Machine Learning method to cluster +5000 songs based on Spotifies aufio features. 
+
 
 ## Data Engineering
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
