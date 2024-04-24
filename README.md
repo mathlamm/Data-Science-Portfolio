@@ -7,6 +7,8 @@ During a four month Data Science Bootcamp at [WBS Coding School Berlin](https://
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
 
 #### Eniac Business Questions [*go to project*](https://github.com/mathlamm/Data-Science-Portfolio/tree/main/Data%20Science/Eniac%20Cleaning%20Analysis)  
 
@@ -28,6 +30,8 @@ Analysis of potential online marketplace partership, using mySQl and Tableau. Fi
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Spotipy](https://img.shields.io/badge/Spotipy-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
 
 
 #### Automated Playlist Generation for Moosic [*go to project*](PASTE LINK HERE):  
