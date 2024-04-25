@@ -1,9 +1,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-F7A600?style=for-the-badge&logo=openweathermap&logoColor=white)
-![AeroDataBox](https://img.shields.io/badge/AeroDataBox-007D8A?style=for-the-badge&logo=airplane&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Spotipy](https://img.shields.io/badge/Spotipy-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ## Project Summary:
 The goal of this project was to introduce automation to the playlist curation process at Moosic, a startup providing expertly crafted playlists. By leveraging unsupervised machine learning techniques, 
