@@ -19,3 +19,14 @@ generating playlists that resonate with listeners.
 - **Integration with OpenAI API**: Made use of OpenAI's API to categorize songs into genres, adding another layer of sophistication to the clustering process by considering the genre as a potential feature or label for assessment.
 
 The end result was a 5-min presentation showing the result of my prototype that uses data-driven insights to automate the playlist curation process. The success of this prototype has been evaluated based on its ability to cluster songs that align with human judgments of similarity and mood.
+
+## Files:
+- main code in *Moosic_Playlists.ipynb*
+- tables see *.csv* and *.pkl* files
+
+## Presentation
+![image](https://github.com/mathlamm/Data-Science-Portfolio/assets/43820711/5da6b2cf-35d9-4b9f-a1a7-5e0a576a1e3f)
+![image](https://github.com/mathlamm/Data-Science-Portfolio/assets/43820711/5340d580-ef66-49ab-81c8-fa9c00a855ad)
+![image](https://github.com/mathlamm/Data-Science-Portfolio/assets/43820711/78db7855-347f-4568-bdd4-fcf5bb2683e2)
+![image](https://github.com/mathlamm/Data-Science-Portfolio/assets/43820711/5309777d-4f05-4921-880a-1732e1733bd6)
+
