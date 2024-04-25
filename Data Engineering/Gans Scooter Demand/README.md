@@ -1,3 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-F7A600?style=for-the-badge&logo=openweathermap&logoColor=white)
+![AeroDataBox](https://img.shields.io/badge/AeroDataBox-007D8A?style=for-the-badge&logo=airplane&logoColor=white)
+
 ## Data-Driven Scooter Distribution for Gans E-Scooter Sharing
 
 #### Project Set Up
