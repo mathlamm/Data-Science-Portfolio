@@ -4,13 +4,13 @@
 ![Spotipy](https://img.shields.io/badge/Spotipy-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-## Project Summary:
+## Project Summary
 The goal of this project was to introduce automation to the playlist curation process at Moosic, a startup providing expertly crafted playlists. By leveraging unsupervised machine learning techniques, 
 I created clusters of similar songs from a dataset of audio features collected via the Spotify API. These clusters served as the basis for new playlists. 
 The task involved evaluating whether Spotify's audio features can effectively capture the "mood" of a song—a quality typically assessed by human experts—and determining if the K-Means algorithm is suitable for 
 generating playlists that resonate with listeners.
 
-## Techniques Used:
+## Techniques Used
 - **Unsupervised Machine Learning**: Utilized the K-Means clustering algorithm to group songs with similar audio features, paving the way for automated playlist generation.
 - **Data Cleaning and Preprocessing**: Performed necessary steps to clean the dataset for optimal machine learning performance, including handling missing values and outliers.
 - **Feature Scaling**: Applied scaling techniques to normalize the range of audio feature variables, ensuring that no single feature would dominate the clustering process due to its scale.
@@ -19,7 +19,7 @@ generating playlists that resonate with listeners.
 
 The end result was a 5-min presentation showing the result of my prototype that uses data-driven insights to automate the playlist curation process. The success of this prototype has been evaluated based on its ability to cluster songs that align with human judgments of similarity and mood.
 
-## Files:
+## Files
 - main code in *Moosic_Playlists.ipynb*
 - tables see *.csv* and *.pkl* files
 
