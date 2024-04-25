@@ -16,15 +16,6 @@ In a 2 week group project for Eniac, I tackled the debate on the impact of produ
 
 
 
-## Data Analysis
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-
-#### Testing Magists Potential for Partnership [*go to project*](https://github.com/mathlamm/Data-Science-Portfolio/tree/main/Data%20Analysis/Magist%20Analysis):  
-
-Analysis of potential online marketplace partership, using mySQl and Tableau. First one-week group effort of the WBS Data Science Boot Camp in March 2024.
-
-
 ## Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -32,11 +23,10 @@ Analysis of potential online marketplace partership, using mySQl and Tableau. Fi
 ![Spotipy](https://img.shields.io/badge/Spotipy-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-
-
 #### Automated Playlist Generation for Moosic [*go to project*](https://github.com/mathlamm/Data-Science-Portfolio/tree/main/Machine%20Learning/Moosic%20-%20Automated%20Playlist%20Generation):  
 
 While *Moosic*s service in offering customoized playlist is scaling up fast, the company is in need for tools to automate playlist generation in support of the music expert team. I used KMeans as a unsupervised Machine Learning method to cluster +5000 songs based on Spotifies aufio features. 
+
 
 
 ## Data Engineering
@@ -52,3 +42,13 @@ While *Moosic*s service in offering customoized playlist is scaling up fast, the
 
 In a 2 week project aimed at optimizing e-scooter distribution for Gans startup, I engineered a cloud-based data pipeline that captures and processes urban mobility data. Utilizing Python for data collection and cleaning, and MySQL for storage, I automated the ingestion of real-time data into a GCP SQL instance. This infrastructure enables Gans to strategically position e-scooters based on predictive analytics, enhancing operational efficiency in diverse cityscapes.
 Story puplished in a [Medium Blog](https://medium.com/@nix-niemand/a-strong-alliance-mysql-and-python-195708ef880a)
+
+
+
+## Data Analysis
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+#### Testing Magists Potential for Partnership [*go to project*](https://github.com/mathlamm/Data-Science-Portfolio/tree/main/Data%20Analysis/Magist%20Analysis):  
+
+Analysis of potential online marketplace partership, using mySQl and Tableau. First one-week group effort of the WBS Data Science Boot Camp in March 2024.
