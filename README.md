@@ -41,7 +41,7 @@ While *Moosic*s service in offering customoized playlist is scaling up fast, the
 #### Gans Scooter Distribtion [*go to project*](https://github.com/mathlamm/Data-Science-Portfolio/tree/main/Data%20Engineering/Gans%20Scooter%20Demand): 
 
 In a 2 week project aimed at optimizing e-scooter distribution for Gans startup, I engineered a cloud-based data pipeline that captures and processes urban mobility data. Utilizing Python for data collection and cleaning, and MySQL for storage, I automated the ingestion of real-time data into a GCP SQL instance. This infrastructure enables Gans to strategically position e-scooters based on predictive analytics, enhancing operational efficiency in diverse cityscapes.
-Story puplished in a [Medium Blog](https://medium.com/@nix-niemand/a-strong-alliance-mysql-and-python-195708ef880a)
+Story published in a [Medium Blog](https://medium.com/@nix-niemand/a-strong-alliance-mysql-and-python-195708ef880a)
 
 
 
