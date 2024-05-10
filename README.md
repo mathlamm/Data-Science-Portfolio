@@ -1,6 +1,6 @@
 # Data-Science-Portfolio
 
-During a four month Data Science Bootcamp at [WBS Coding School Berlin](https://www.wbscodingschool.com/data-science-bootcamp/) I completed several projects focusing on all facades of data management: Data Engineering, Data Science and Data Analysis. Projects were set up as real-world companies with real case scenarios. 
+During a 15-weeks Data Science Bootcamp at [WBS Coding School Berlin](https://www.wbscodingschool.com/data-science-bootcamp/) I completed several projects focusing on all facades of data management: Data Engineering, Data Science and Data Analysis. Projects were set up as real-world companies with real case scenarios. 
 
 
 ## Data Science
@@ -26,6 +26,12 @@ In a 2 week group project for Eniac, I tackled the debate on the impact of produ
 #### Automated Playlist Generation for Moosic [*go to project*](https://github.com/mathlamm/Data-Science-Portfolio/tree/main/Machine%20Learning/Moosic%20-%20Automated%20Playlist%20Generation):  
 
 While *Moosic*s service in offering customoized playlist is scaling up fast, the company is in need for tools to automate playlist generation in support of the music expert team. I used KMeans as a unsupervised Machine Learning method to cluster +5000 songs based on Spotifies aufio features. 
+
+#### Competition - Predicting Housing Values [*go to project*](https://github.com/mathlamm/Data-Science-Portfolio/tree/main/Machine%20Learning/Competition%20-%20Predicting%20Housing%20Values):  
+
+
+As part of a real estate consultancy, I leveraged data science to predict property values in Ames, Iowa, developing models to assess if homes are priced above or below their appraised values and to predict actual sale prices, achieving top ranks in internal and global competitions. This project utilized a dataset containing historical sales data and 80 property features, pushing the boundaries of traditional real estate appraisal with cutting-edge machine learning techniques.
+
 
 
 
