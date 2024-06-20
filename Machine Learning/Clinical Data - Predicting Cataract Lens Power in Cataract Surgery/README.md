@@ -31,8 +31,8 @@ In fact, using a variety of estimators, the performance (measures as R²) did no
 
 **Algorithm Limitations:** The current machine learning model does not adequately capture the complexities of optical physics, requiring further refinement.
 
-![image](https://github.com/mathlamm/Data-Science-Portfolio/assets/43820711/d31ace13-f348-41a5-a4e3-e37d1171b20b)
-![image](https://github.com/mathlamm/Data-Science-Portfolio/assets/43820711/2d8ef195-5d63-498a-afd8-5a33685711ac)
+![image](https://github.com/mathlamm/Data-Science-Portfolio/assets/43820711/0d405f4a-3eb0-496b-8c8d-43e23857159c)
+
 
 
 ### Key Learnings
