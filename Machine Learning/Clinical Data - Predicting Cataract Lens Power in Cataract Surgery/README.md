@@ -53,3 +53,4 @@ This endeavor has underscored the importance of thoughtful data management and h
 - In *data_cleaning.ipynb*, all tables are cleaned and validated. Also, unneeded, incomplete and excluded cases are removed. Finally, all tables as merged as prepped for ML purposes.
 - The model is build and run using different estimators in *model.ipynb*.
 - Finally, *app.py* und *functions.py* contain the streamlit app, that helps extract relevant information from an biometry pdf file and runs the predicition in a user-friendly way
+* Some information and cell outputs were removed for GDPR reasons 
