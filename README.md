@@ -23,6 +23,10 @@ In a 2 week group project for Eniac, I tackled the debate on the impact of produ
 ![Spotipy](https://img.shields.io/badge/Spotipy-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
+#### Predicting Refractive Error in Cataract Surgery [*go to project*](https://github.com/mathlamm/Data-Science-Portfolio/tree/main/Machine%20Learning/Clinical%20Data%20-%20Predicting%20Cataract%20Lens%20Power%20in%20Cataract%20Surgery):  
+
+In my final project at WBS Coding School, I developed a machine learning model to predict refractive errors after cataract surgery, using over 5,000 real-world cases. The model aims to assist surgeons in choosing the optimal lens, improving patient outcomes despite challenges with data completeness and model precision.
+
 #### Automated Playlist Generation for Moosic [*go to project*](https://github.com/mathlamm/Data-Science-Portfolio/tree/main/Machine%20Learning/Moosic%20-%20Automated%20Playlist%20Generation):  
 
 While *Moosic*s service in offering customoized playlist is scaling up fast, the company is in need for tools to automate playlist generation in support of the music expert team. I used KMeans as a unsupervised Machine Learning method to cluster +5000 songs based on Spotifies aufio features. 
