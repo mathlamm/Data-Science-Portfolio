@@ -47,3 +47,9 @@ Clinical data tends to be "dirty" and error-prone, often entered manually, leadi
 While the model is not yet ready for clinical use, the project has provided deep insights into the complexities of working with medical data. Quality data must be reliable, representative, and accessible—a standard that requires strategic forethought during the data collection and storage phases to ensure its utility for future scientific and clinical applications. Further assessments and enhancements are necessary to improve the model's performance, which was beyond the scope of this three-week project.
 
 This endeavor has underscored the importance of thoughtful data management and has equipped me with invaluable experience in the practical challenges of applying machine learning in healthcare settings.
+
+### Files
+- *biometry_scraping.ipynb* is used for PDF scraping >20.000 PDF files, containing eye measurement data.
+- In *data_cleaning.ipynb*, all tables are cleaned and validated. Also, unneeded, incomplete and excluded cases are removed. Finally, all tables as merged as prepped for ML purposes.
+- The model is build and run using different estimators in *model.ipynb*.
+- Finally, *app.py* und *functions.py* contain the streamlit app, that helps extract relevant information from an biometry pdf file and runs the predicition in a user-friendly way
