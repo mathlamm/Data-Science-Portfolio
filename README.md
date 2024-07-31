@@ -12,15 +12,12 @@ In a 2 week group project for Eniac, I tackled the debate on the impact of produ
 
 ## Machine Learning
 
-<<<<<<< HEAD
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)![Spotipy](https://img.shields.io/badge/Spotipy-1DB954?style=for-the-badge&logo=spotify&logoColor=white)![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 =======
 #### Predicting Refractive Error in Cataract Surgery [*go to project*](https://github.com/mathlamm/Data-Science-Portfolio/tree/main/Machine%20Learning/Clinical%20Data%20-%20Predicting%20Cataract%20Lens%20Power%20in%20Cataract%20Surgery):  
 
 In my final project at WBS Coding School, I developed a machine learning model to predict refractive errors after cataract surgery, using over 5,000 real-world cases. The model aims to assist surgeons in choosing the optimal lens, improving patient outcomes despite challenges with data completeness and model precision.
 
-#### Automated Playlist Generation for Moosic [*go to project*](https://github.com/mathlamm/Data-Science-Portfolio/tree/main/Machine%20Learning/Moosic%20-%20Automated%20Playlist%20Generation):  
->>>>>>> 456e4bfb9ee6a0fde2ac1ba0e5d9f34edfaefc30
 
 #### Automated Playlist Generation for Moosic [*go to project*](https://github.com/mathlamm/Data-Science-Portfolio/tree/main/Machine%20Learning/Moosic%20-%20Automated%20Playlist%20Generation):
 
